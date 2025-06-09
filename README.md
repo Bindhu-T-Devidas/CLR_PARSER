@@ -34,8 +34,8 @@ CLR\_PARSER/
 │
 ├── app.py                      # Streamlit frontend
 ├── app2.py                     # Additional interface logic
-├── firstfollow\.py              # FIRST and FOLLOW computation
-├── fixed\_refactored\_CLR.py     # CLR parsing logic (Closure, GOTO, Table gen)
+├── firstfollow.py              # FIRST and FOLLOW computation
+├── fixed_refactored_CLR.py     # CLR parsing logic (Closure, GOTO, Table gen)
 ├── Images/                     # Visual output of parsing steps
 ├── Report CLR PARSER.pdf       # Full report
 └── **pycache**/                # Compiled Python cache (ignored)
