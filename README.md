@@ -1,4 +1,4 @@
-# 🧠 CLR_PARSER – Canonical LR(1) Parser in Python
+# CLR_PARSER – Canonical LR(1) Parser in Python
 
 This project implements a **Canonical LR (CLR)** parser in Python, designed to simulate the syntax analysis phase of a compiler using bottom-up parsing techniques. It constructs FIRST and FOLLOW sets, LR(1) item sets, and builds ACTION and GOTO parsing tables to validate input strings against a context-free grammar (CFG).
 
@@ -78,17 +78,6 @@ CLR\_PARSER/
 A detailed report of the project including implementation, methodology, and results is available in [`Report CLR PARSER.pdf`](./Report%20CLR%20PARSER.pdf).
 
 ---
-
-## ✅ Future Enhancements
-
-* Grammar validation with error feedback
-* Parse tree visualization
-* Detailed syntax error reporting
-* Export parsing tables to CSV/PDF
-* Support for advanced grammars (left-recursion, precedence handling)
-
----
-
 ##  Demo
 
 ### 📤 Upload a Grammar File
@@ -116,11 +105,6 @@ A detailed report of the project including implementation, methodology, and resu
 
 ---
 
-## 📄 License
-
-MIT License – feel free to use, modify, and share!
-
----
 
 
 
